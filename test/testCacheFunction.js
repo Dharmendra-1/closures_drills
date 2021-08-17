@@ -9,7 +9,3 @@ result('Hello', 'Hi');
 
 result('Hey', 'Hello', 'Hi');
 result('Hey', 'Hello', 'Hi');
-
-
-result('Ram');
-result('Ram');
