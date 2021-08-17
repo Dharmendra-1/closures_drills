@@ -1,6 +1,6 @@
-const obj = {};
-
 const cacheFunction = (cb) =>{
+    
+    const obj = {};
 
     return innerFunction = (...args) =>{
     
