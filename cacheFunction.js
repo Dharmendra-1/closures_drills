@@ -9,7 +9,7 @@ const cacheFunction = (cb) =>{
           }else{
               obj[args] = args;
 
-              cb(...args);
+              cb(obj[args]);
           }
     }
 }
